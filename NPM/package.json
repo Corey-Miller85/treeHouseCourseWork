@@ -1,0 +1,18 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "NPM coursework",
+  "main": "password.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Corey Miller",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ccolors": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
